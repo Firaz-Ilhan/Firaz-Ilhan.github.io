@@ -1,5 +1,6 @@
 body {
   font-family: sans-serif;
+  font-size: calc(0.8em + 1vmin);
   background: #f7f7f7;
   max-width: 1000px;
   margin: auto;
@@ -19,6 +20,7 @@ a {
   color: inherit;
   text-decoration-color: #007AFC;
   text-decoration-thickness: 3px;
+  white-space: nowrap;
 }
 
 a:hover {
