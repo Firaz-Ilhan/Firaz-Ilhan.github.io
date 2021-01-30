@@ -39,3 +39,16 @@ a.contact-button {
   box-sizing: border-box;
   text-decoration: none;
 }
+
+.tech-tag {
+  font-size: 0.8em;
+  margin: 0 2px 0 2px;
+  padding: 0 2px 0 2px;
+  color: rgba(0, 0, 0, 0.75);
+  background: rgba(28, 30, 107, 0.15);
+}
+
+.project-summary {
+  opacity: 75%;
+  margin-bottom: 1em;
+}
