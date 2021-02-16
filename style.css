@@ -4,7 +4,7 @@ body {
   background: #f7f7f7;
   max-width: 1000px;
   margin: auto;
-  padding: 5%;
+  padding: 0 1em;
 }
 
 h1, h2 {
@@ -44,8 +44,7 @@ a.contact-button {
   font-size: 0.8em;
   margin: 0 2px 0 2px;
   padding: 0 2px 0 2px;
-  color: rgba(0, 0, 0, 0.75);
-  background: rgba(28, 30, 107, 0.15);
+  background:#d6d6d6;
 }
 
 .project-summary {
